@@ -30,3 +30,5 @@ Draw.io · Microsoft Learn · Bash · NotebookLM
 **Labs completed:** systemctl 7-command drill on Killercoda Ubuntu, chmod permissions drill in VS Code terminal, first cron job with timestamped log output, process management with ps/htop/kill by PID.
 
 **Key insight:** Seeing my cron-log.txt fill with timestamps automatically made automation feel real for the first time — the system worked without me touching it.
+![Cron Lab](week2-cron-lab.png)
+![Htop Lab](week2-htop-lab.png)
