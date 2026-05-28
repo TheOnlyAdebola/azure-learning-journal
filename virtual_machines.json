@@ -1,0 +1,5 @@
+[
+    {"name": "vm-01", "status": "running", "location": "eastus"},
+    {"name": "vm-02", "status": "stopped", "location": "westus"},
+    {"name": "vm-03", "status": "running", "location": "northeurope"}
+]
