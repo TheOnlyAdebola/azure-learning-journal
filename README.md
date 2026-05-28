@@ -45,3 +45,10 @@ Draw.io · Microsoft Learn · Bash · NotebookLM
 **Key insight:** A variable is a labelled container. A conditional listens to a condition and acts based on whether it is true or false.
 ![Conditionals Flowchart](Week2_Conditionals_Flowchart.png)
 
+### Week 2 — Thursday Python File I/O + Git Branching
+
+**Topics covered:** File modes (r, w, a), with open(), json.load(), json.dumps(), Git branching, Pull Requests, merge workflow.
+
+**Labs completed:** week2_file_processor.py — opened and read virtual_machines.json using with open() and json.load(). Full Git branch workflow — created feature-file-processor branch, committed, pushed, raised PR, merged into main, deleted branch.
+
+**Key insight:** A Git branch is a safe detour from main — you can work freely without touching the original code, then merge back when the team approves.
