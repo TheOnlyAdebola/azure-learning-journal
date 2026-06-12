@@ -1,0 +1,13 @@
+# Sensitive credentials - never commit
+.aws/
+.ssh/
+.azure/
+.gitconfig
+.zsh_history
+credentials
+*access-key*
+*secret*
+
+# Mac system files
+.DS_Store
+.Trash/
